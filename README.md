@@ -14,3 +14,14 @@ File: [arithArray.c](arithArray.c)
 
 >This C program calculates the sum of all even numbers and
 the product of all odd numbers entered by the user.
+
+***
+
+## Factors of a Number
+
+File: [FactorsOfN.c](FactorsOfN.c)
+
+This C program finds and displays all the factors of a given number.
+It checks each number from 1 to the given number and prints the numbers that divide it exactly.
+
+---
