@@ -12,5 +12,5 @@ File: [NextGreElem.c](NextGreElem.c)
 
 File: [arithArray.c](arithArray.c)
 
-This C program calculates the sum of all even numbers and
+>This C program calculates the sum of all even numbers and
 the product of all odd numbers entered by the user.
