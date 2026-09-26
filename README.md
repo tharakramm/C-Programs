@@ -5,7 +5,7 @@ File: [NextGreElem.c](NextGreElem.c)
 
 >This C program finds the Next Greater Element (NGE) for every element in an array using a stack. For each element, the program searches for the first greater element to its right. If no greater element exists, it displays -1.
 
-## Sum of Even Numbers and Product of Odd Numbers
+### Sum of Even Numbers and Product of Odd Numbers
 
 File: [arithArray.c](arithArray.c)
 
