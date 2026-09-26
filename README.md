@@ -1,5 +1,6 @@
 # C-Programs
 
+#### Next Greater Element using Stack
 File: [NextGreElem.c](NextGreElem.c)
 
 
