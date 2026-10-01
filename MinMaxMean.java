@@ -15,7 +15,6 @@ int main()
     {
         scanf("%d",&t[i]);
     }
-
     
     min=t[0];
 	   max=t[0];
