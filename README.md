@@ -39,6 +39,13 @@ File: [MinMaxMean.c](MinMaxMean.c)
 
 ---
 
+#### Reverse Array Using Pointers
+File: [ReverseArray.c](ReverseArray.c)
+
+>This C program prints the elements of an array in reverse order using pointers.
+
+---
+
 #### Next Greater Element using Stack
 File: [NextGreElem.c](NextGreElem.c)
 
