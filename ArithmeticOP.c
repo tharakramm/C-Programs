@@ -22,10 +22,18 @@ int main()
 	    case '*': printf("%d*%d = %d",n1,n2,n1*n2); 
         break;
       
-        case '/': printf("%d/%d=%.2f",n1,n2, (float)n1/n2);
+        case '/':
+        if(n2==0)
+            printf("Division By Zero Is Not Defined!");
+        else
+            printf("%d/%d=%.2f",n1,n2,(float)n1/n2);
         break;
-      
-        case '%': printf("%d%%%d=%d",n1,n2,n1%n2);     
+
+        case '%':
+        if(n2==0)
+            printf("Modulo By Zero Is Not Defined!");
+        else
+            printf("%d%%%d=%d",n1,n2,n1%n2);
         break;
       
         default: printf("Invalid Input");
