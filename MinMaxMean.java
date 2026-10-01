@@ -17,7 +17,7 @@ int main()
     }
     
     min=t[0];
-	   max=t[0];
+	  max=t[0];
     sum=0;
     
     for(i=0; i<n; i++)
