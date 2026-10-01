@@ -68,6 +68,14 @@ File: [ArithmeticOP.c](ArithmeticOP.c)
 
 ---
 
+#### Bubble Sort
+File: [BubbleSort.c](BubbleSort.c)
+
+>This C program sorts an array of integers in ascending order using the bubble sort algorithm.
+
+---
+
+
 
 #### Maximum and Minimum of Three Numbers
 File: [MaxMin3.c](MaxMin3.c)
