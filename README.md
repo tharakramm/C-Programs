@@ -1,13 +1,5 @@
 # C-Programs
 
-#### Next Greater Element using Stack
-File: [NextGreElem.c](NextGreElem.c)
-
-
->This C program finds the Next Greater Element (NGE) for every element in an array using a stack. For each element, the program searches for the first greater element to its right. If no greater element exists, it displays -1.
-
----
-
 #### Sum of Even Numbers and Product of Odd Numbers
 
 File: [arithArray.c](arithArray.c)
@@ -37,6 +29,21 @@ File: [FactorialUsingLoop.c](FactorialUsingLoop.c)
 File: [PrimeCheck.c](PrimeCheck.c)
 
 >This C program checks whether a given positive integer is a prime number using a user-defined function. 
+
+---
+
+#### Minimum, Maximum, and Mean of Numbers
+File: [MinMaxMean.c](MinMaxMean.c)
+
+>This C program finds the minimum, maximum, and mean of a given set of numbers using an array. It reads the total count of numbers, takes them as input, and computes the statistics.
+
+---
+
+#### Next Greater Element using Stack
+File: [NextGreElem.c](NextGreElem.c)
+
+
+>This C program finds the Next Greater Element (NGE) for every element in an array using a stack. For each element, the program searches for the first greater element to its right. If no greater element exists, it displays -1.
 
 ---
 
