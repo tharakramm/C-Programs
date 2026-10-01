@@ -61,6 +61,14 @@ File: [NextGreElem.c](NextGreElem.c)
 
 ---
 
+#### Basic Arithmetic Operations Using Switch
+File: [ArithmeticOP.c](ArithmeticOP.c)
+
+>This C program Performs Basic Arithmetic Operations Like Addition,Subtraction, Multiplication,Division, & Modulus Using Switch case.
+
+---
+
+
 #### Maximum and Minimum of Three Numbers
 File: [MaxMin3.c](MaxMin3.c)
 
