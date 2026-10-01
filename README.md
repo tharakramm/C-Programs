@@ -46,6 +46,13 @@ File: [ReverseArray.c](ReverseArray.c)
 
 ---
 
+#### Linear Search
+File: [LinearSearch.c](LinearSearch.c)
+
+>This C program performs a linear search on an array of integers to find a specific key element.
+
+---
+
 #### Next Greater Element using Stack
 File: [NextGreElem.c](NextGreElem.c)
 
