@@ -25,3 +25,10 @@ File: [factorsOfN.c](factorsOfN.c)
 It checks each number from 1 to the given number and prints the numbers that divide it exactly.
 
 ---
+
+#### Factorial of a Number
+File: [FactorialUsingLoop.c](FactorialUsingLoop.c)
+
+>This C program calculates the factorial of a given integer by Using While Loop.
+
+---
