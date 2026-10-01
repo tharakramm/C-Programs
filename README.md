@@ -61,3 +61,11 @@ File: [NextGreElem.c](NextGreElem.c)
 
 ---
 
+#### Maximum and Minimum of Three Numbers
+File: [MaxMin3.c](MaxMin3.c)
+
+>This C program compares three user-entered integers to determine their relative values. It checks if all numbers are equal, and if not, identifies and displays both the maximum and minimum values among them.
+
+---
+
+
