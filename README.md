@@ -75,6 +75,12 @@ File: [BubbleSort.c](BubbleSort.c)
 
 ---
 
+#### Binary Search
+File: [BinarySearch.c](BinarySearch.c)
+
+>This C program performs a binary search on a sorted array of integers to find a specific key element.
+
+---
 
 
 #### Maximum and Minimum of Three Numbers
