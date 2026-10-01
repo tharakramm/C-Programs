@@ -82,6 +82,13 @@ File: [BinarySearch.c](BinarySearch.c)
 
 ---
 
+#### Insertion Sort
+File: [InsertionSort.c](InsertionSort.c)
+
+>This C program sorts an array of integers in ascending order using the insertion sort algorithm.
+
+---
+
 
 #### Maximum and Minimum of Three Numbers
 File: [MaxMin3.c](MaxMin3.c)
