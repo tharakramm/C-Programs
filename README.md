@@ -53,13 +53,6 @@ File: [LinearSearch.c](LinearSearch.c)
 
 ---
 
-#### Next Greater Element using Stack
-File: [NextGreElem.c](NextGreElem.c)
-
-
->This C program finds the Next Greater Element (NGE) for every element in an array using a stack. For each element, the program searches for the first greater element to its right. If no greater element exists, it displays -1.
-
----
 
 #### Basic Arithmetic Operations Using Switch
 File: [ArithmeticOP.c](ArithmeticOP.c)
@@ -100,6 +93,21 @@ File: [selectionSort.c](selectionSort.c)
 File: [MaxMin3.c](MaxMin3.c)
 
 >This C program compares three user-entered integers to determine their relative values. It checks if all numbers are equal, and if not, identifies and displays both the maximum and minimum values among them.
+
+---
+
+#### Sum of Digits and Palindrome Check
+File: [SumPalindrome.c](SumPalindrome.c)
+
+>This C program calculates the sum of the digits of a given integer and checks whether the number is a palindrome.
+
+---
+
+#### Next Greater Element using Stack
+File: [NextGreElem.c](NextGreElem.c)
+
+
+>This C program finds the Next Greater Element (NGE) for every element in an array using a stack. For each element, the program searches for the first greater element to its right. If no greater element exists, it displays -1.
 
 ---
 
