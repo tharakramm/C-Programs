@@ -32,3 +32,11 @@ File: [FactorialUsingLoop.c](FactorialUsingLoop.c)
 >This C program calculates the factorial of a given integer by Using While Loop.
 
 ---
+
+#### Checking Prime Number
+File: [PrimeCheck.c](PrimeCheck.c)
+
+>This C program checks whether a given positive integer is a prime number using a user-defined function. 
+
+---
+
