@@ -89,6 +89,12 @@ File: [InsertionSort.c](InsertionSort.c)
 
 ---
 
+#### Selection Sort
+File: [selectionSort.c](selectionSort.c)
+
+>This C program sorts an array of integers in ascending order using the selection sort algorithm.
+
+---
 
 #### Maximum and Minimum of Three Numbers
 File: [MaxMin3.c](MaxMin3.c)
