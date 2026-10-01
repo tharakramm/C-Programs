@@ -2,14 +2,14 @@
 
 int main() 
 {
-int i,n,min,max,sum;
+   int i,n,min,max,sum;
 	
-printf("How many Numbers: ");
-scanf("%d",&n);
+   printf("How many Numbers: ");
+   scanf("%d",&n);
 	
 
-int t[n];
-printf("Write %d numbers : ",n);
+   int t[n];
+   printf("Write %d numbers : ",n);
 	
     for(i = 0; i < n; i++) 
     {
@@ -18,7 +18,7 @@ printf("Write %d numbers : ",n);
     
     min=t[0];
 	   max=t[0];
-   	sum=0;
+    sum=0;
     
     for(i=0; i<n; i++)
     {
